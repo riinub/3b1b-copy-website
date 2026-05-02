@@ -1,2 +1,2 @@
-# 3blue1brown-copy-website
-A sample website I made learning and practicing HTML. More command on CSS and javaascript and I will make the header animations better. 
+#3blue1brown-copy-website
+A static website inspired by 3Blue1Brown, built while learning HTML, CSS, and basic JavaScript. The project focuses on layout design, CSS styling, and custom header animations using SVG and keyframe animations.
